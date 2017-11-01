@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/JasonZang1005/Agenda.svg?branch=master)](https://travis-ci.org/JasonZang1005/Agenda)
 # Agenda
 Agenda - Command line program by Cobra
 
